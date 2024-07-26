@@ -128,6 +128,7 @@ table {
     border: 1px solid #95a1bb;
     width: 300px;
     height: 196px;
+    font-size: 14px;
     border-collapse: collapse;
 
 }
@@ -136,10 +137,9 @@ th,
 td {
     /* Стили для ячеек таблицы */
     font-weight: 700;
-    font-size: 14px;
     text-align: center;
-    padding: 11px 0;
-    padding-left: 15px;
+    padding: 12px 15px;
+
 
 }
 
