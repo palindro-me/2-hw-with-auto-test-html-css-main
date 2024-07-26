@@ -73,7 +73,7 @@ select {
     margin-bottom: 25px;
 }
 
-.frameworks-list {
+.skills-list {
     /* Стили для маркированного списка во второй секции */
     list-style-image: url(assets/img/Vector.png);
     padding-left: 20px;
@@ -83,7 +83,7 @@ select {
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
-    padding-left: 20px;
+    padding: 0 20px;
     font-weight: 400;
     font-size: 16px;
 }
